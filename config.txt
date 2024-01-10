@@ -1,0 +1,2 @@
+custom_window_look=True
+geometry_size=300x350
